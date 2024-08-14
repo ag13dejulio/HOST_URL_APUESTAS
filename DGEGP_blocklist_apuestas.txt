@@ -140,3 +140,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 dazzlecasino.casino-pp.net/#/lobby
 0.0.0.0 makocasino.casino-pp.net/#/lobby
 0.0.0.0 caba.betwarrior.bet.ar
+0.0.0.0 caba.betsson.bet.ar
+0.0.0.0 pba.betsson.bet.ar
