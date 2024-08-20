@@ -116,6 +116,7 @@
 0.0.0.0 conquercasino.casino-pp.net
 0.0.0.0 dazzlecasino.casino-pp.net
 0.0.0.0 makocasino.casino-pp.net
-0.0.0.0 caba.betwarrior.bet.ar
-0.0.0.0 caba.betsson.bet.ar
-0.0.0.0 pba.betsson.bet.ar
+0.0.0.0 .betwarrior.bet.ar
+0.0.0.0 .betsson.bet.ar
+0.0.0.0 .codere.bet.ar
+0.0.0.0 .bplay.com.ar
