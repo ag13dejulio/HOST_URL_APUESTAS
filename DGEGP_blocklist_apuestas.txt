@@ -30,7 +30,6 @@
 0.0.0.0 fortunejack.com
 0.0.0.0 frankcasino.com
 0.0.0.0 freakyaces.com
-0.0.0.0 goldenstar-casino.com
 0.0.0.0 goldfortunecasino.com
 0.0.0.0 grafcasino.com
 0.0.0.0 heavychips.com
