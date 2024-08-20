@@ -1,9 +1,4 @@
 
-#
-# ===============================================================
-0.0.0.0 www.codere.bet.ar
-0.0.0.0 www.bplay.bet.ar
-0.0.0.0 www.super7.bet.ar
 0.0.0.0 www.betway.bet.ar
 0.0.0.0 www.jugadon.bet.ar
 0.0.0.0 www.betsson.bet.ar
